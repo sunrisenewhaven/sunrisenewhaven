@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sunrise New Haven</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Sunrise New Haven</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Sunrise New Haven</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>We&amp;rsquo;re a group of young people who watch sunrises in New Haven.</description>
+    </item>
+    
+    <item>
+      <title>Calendar</title>
+      <link>http://example.org/calendar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/calendar/</guid>
+      <description>Events page
+  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description>Feel free to e-mail us, join meetings etc.</description>
+    </item>
+    
+    <item>
+      <title>How to make a virtual rally</title>
+      <link>http://example.org/resources/virtual_rally/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/resources/virtual_rally/</guid>
+      <description>Get lots of people Simple!</description>
+    </item>
+    
+  </channel>
+</rss>
