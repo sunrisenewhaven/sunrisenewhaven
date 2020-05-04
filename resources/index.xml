@@ -11,6 +11,17 @@
     
     
     <item>
+      <title>Anti-racism resources</title>
+      <link>http://example.org/resources/anti-racism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/resources/anti-racism/</guid>
+      <description>Articles:
+ Article one Article two  Books:
+ How to be an anti-racist Ibram X. Kendi  </description>
+    </item>
+    
+    <item>
       <title>How to make a virtual rally</title>
       <link>http://example.org/resources/virtual_rally/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

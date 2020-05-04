@@ -6,9 +6,28 @@
     <description>Recent content in Tags on Sunrise New Haven</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 30 Apr 2020 20:38:50 +0100</lastBuildDate>
     
 	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>blog</title>
+      <link>http://example.org/tags/blog/</link>
+      <pubDate>Thu, 30 Apr 2020 20:38:50 +0100</pubDate>
+      
+      <guid>http://example.org/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>story</title>
+      <link>http://example.org/tags/story/</link>
+      <pubDate>Thu, 30 Apr 2020 20:38:50 +0100</pubDate>
+      
+      <guid>http://example.org/tags/story/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

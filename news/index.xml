@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Sunrise New Haven</title>
+    <link>http://example.org/news/</link>
+    <description>Recent content in News on Sunrise New Haven</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anti-racism training</title>
+      <link>http://example.org/news/anti-racism-training/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/news/anti-racism-training/</guid>
+      <description>We take environmental and racial justice seriously, and</description>
+    </item>
+    
+    <item>
+      <title>Earth Day 2020</title>
+      <link>http://example.org/news/earth_day_2020/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/news/earth_day_2020/</guid>
+      <description>We did an online rally!</description>
+    </item>
+    
+  </channel>
+</rss>

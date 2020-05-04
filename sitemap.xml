@@ -3,7 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/news/anti-racism-training/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/blog/</loc>
+    <lastmod>2020-04-30T20:38:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/my-first-post/</loc>
+    <lastmod>2020-04-30T20:38:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2020-04-30T20:38:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/story/</loc>
+    <lastmod>2020-04-30T20:38:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2020-04-30T20:38:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/earth_day_2020/</loc>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/resources/anti-racism/</loc>
   </url>
   
   <url>
@@ -24,14 +73,6 @@
   
   <url>
     <loc>http://example.org/resources/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
   </url>
   
 </urlset>

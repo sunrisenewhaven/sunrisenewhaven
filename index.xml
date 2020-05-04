@@ -6,9 +6,37 @@
     <description>Recent content on Sunrise New Haven</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Anti-racism training</title>
+      <link>http://example.org/news/anti-racism-training/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/news/anti-racism-training/</guid>
+      <description>We take environmental and racial justice seriously, and</description>
+    </item>
+    
+    <item>
+      <title>Escalated Actions Planning</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Thu, 30 Apr 2020 20:38:50 +0100</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>Sample, dark and story night, etc.</description>
+    </item>
+    
+    <item>
+      <title>Earth Day 2020</title>
+      <link>http://example.org/news/earth_day_2020/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/news/earth_day_2020/</guid>
+      <description>We did an online rally!</description>
+    </item>
     
     <item>
       <title>About Sunrise New Haven</title>
@@ -17,6 +45,17 @@
       
       <guid>http://example.org/about/</guid>
       <description>We&amp;rsquo;re a group of young people who watch sunrises in New Haven.</description>
+    </item>
+    
+    <item>
+      <title>Anti-racism resources</title>
+      <link>http://example.org/resources/anti-racism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/resources/anti-racism/</guid>
+      <description>Articles:
+ Article one Article two  Books:
+ How to be an anti-racist Ibram X. Kendi  </description>
     </item>
     
     <item>
@@ -35,7 +74,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/contact/</guid>
-      <description>Feel free to e-mail us, join meetings etc.</description>
+      <description>If you would like to join our Google Group mailing list, then please use this form
+Feel free to reach out to us via our social media (at the bottom of the page), or directly via sunrisenewhavenct@gmail.com
+We encourage and welcome you to join our meetings, which are currently being held regularly online via Zoom</description>
     </item>
     
     <item>
