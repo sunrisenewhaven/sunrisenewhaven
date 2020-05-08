@@ -68,7 +68,11 @@
   </url>
   
   <url>
-    <loc>http://example.org/resources/virtual_rally/</loc>
+    <loc>http://example.org/resources/virtual-rally/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/resources/hub-structure/</loc>
   </url>
   
   <url>

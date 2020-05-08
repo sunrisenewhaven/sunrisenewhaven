@@ -36,7 +36,7 @@
       
       <guid>http://example.org/news/earth_day_2020/</guid>
       <description>We did an online rally!
-The past two years have seen an explosion of pop culture affection for 82-year-old Supreme Court Justice Ruth Bader Ginsburg, much of it under the moniker “Notorious RBG.” The name is a riff on “Notorious BIG,” one of the most celebrated rappers of all time, and now adorns t-shirts, hoodies, and a popular Tumblr page. A fiery Ginsburg caricature has been played on Saturday Night Live, an opera has been written about her, and Warholian screen prints depict her regal visage complete with crown and jabot.</description>
+But how did we do it?</description>
     </item>
     
     <item>
@@ -81,12 +81,22 @@ We encourage and welcome you to join our meetings, which are currently being hel
     
     <item>
       <title>How to make a virtual rally</title>
-      <link>http://example.org/resources/virtual_rally/</link>
+      <link>http://example.org/resources/virtual-rally/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/resources/virtual_rally/</guid>
+      <guid>http://example.org/resources/virtual-rally/</guid>
       <description>Get lots of people
 Simple!</description>
+    </item>
+    
+    <item>
+      <title>Hub structure</title>
+      <link>http://example.org/resources/hub-structure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/resources/hub-structure/</guid>
+      <description>Teams Actions team The actions team devises strategy and tactics to support the overall objectives of the hub. We are in the process of determining new, longer- and shorter-term goals, for which we would love to have your unique creative input!
+Arts/Media/Comms Media gets the word out there to anyone looking for our hub on the internet or via the press and updates the public on what we are doing (preferably in an engaging way!</description>
     </item>
     
   </channel>
